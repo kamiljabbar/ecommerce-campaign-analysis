@@ -98,13 +98,4 @@ Pareto analysis: top channels contributing majority of revenue.
 6. Improve funnel stages for channels with high impressions but low conversions.
 7. Leverage seasonality: schedule promotions when performance peaks.
 
-## How to Reproduce (Optional)
-1. Place or generate `data/ecommerce_campaign_data.csv` by running the script:
-   ```bash
-   python scripts/generate_synthetic_data.py
-   ```
-2. Run plotting script to regenerate images:
-   ```bash
-   python scripts/plot_charts.py
-   ```
-3. Images will be saved to `dashboards/`. Commit updated images if data or analysis changes.
+
